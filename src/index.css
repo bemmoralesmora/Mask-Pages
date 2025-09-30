@@ -11,7 +11,17 @@
 #root {
   display: flex;
   width: 100%;
-  height: 100vh;
+  height: auto;
+}
+
+:root {
+  --lila: #368986;
+  --amarillo: #e79a32;
+  --rojo: #f84339;
+  --rosa: #d40f60;
+  --azul: #005c81;
+  --gris: #e5ead4;
+  --beige: #ddcaa2;
 }
 
 * {
