@@ -1,0 +1,32 @@
+# dependencias
+node_modules/
+
+# builds
+dist/
+build/
+
+# pruebas
+coverage/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# sistema
+.DS_Store
+Thumbs.db
+
+# entorno
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# editor
+.vscode/
+.idea/
+*.swp
